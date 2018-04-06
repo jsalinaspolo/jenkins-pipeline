@@ -1,0 +1,10 @@
+build-timeout:latest
+cloudbees-folder:latest
+git:latest
+gradle:latest
+pipeline-github-lib:latest
+pipeline-stage-view:latest
+ssh-slaves:latest
+timestamper:latest
+workflow-aggregator:latest
+ws-cleanup:latest

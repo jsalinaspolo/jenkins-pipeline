@@ -1,0 +1,4 @@
+rootProject.name = 'jenkins-pipeline'
+include 'pipeline'
+include 'code-project'
+
